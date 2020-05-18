@@ -10,12 +10,12 @@ This solves exercise 2.3 of the tasks given in Rechnernetze @ TU Dresden.
 
 ## Dependencies
 * Necessary:
-** Python 3
-** Matplotlib
+  * Python 3
+  * Matplotlib
 
 * Optional:
-** tkinter (for GUI; otherwise a CLI or command line options can be used)
-** NumPy (for fast calculations)
+  * tkinter (for GUI; otherwise a CLI or command line options can be used)
+  * NumPy (for fast calculations)
 
 ## HowTo
 Simply execute main.py on your command line.
