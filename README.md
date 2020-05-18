@@ -17,6 +17,11 @@ This solves exercise 2.3 of the tasks given in Rechnernetze @ TU Dresden.
   * tkinter (for GUI; otherwise a CLI or command line options can be used)
   * NumPy (for fast calculations)
 
+## Conventions for Signal Levels
+* AM: 0.5 => LOW, 1.0 => HIGH
+* FM: 1·f => LOW, 2·f => HIGH
+* PM: Phase Shift at begin of LOW cycle
+
 ## HowTo
 Simply execute main.py on your command line.
 
